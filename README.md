@@ -1,74 +1,30 @@
-<h1 align="center">Semih Utku Özgan</h1>
+# Merhaba, ben Semih Utku Özgan 👋
 
-<p align="center">
-  Bilgisayar Mühendisi · Görüntü İşleme &amp; Derin Öğrenme
-</p>
+Bilgisayar Mühendisiyim. **Derin öğrenme tabanlı nesne tespiti, gerçek zamanlı görüntü işleme ve gömülü yapay zekâ** alanlarında çalışıyorum.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/semih-utku-ozgan">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:ozganutk@gmail.com">E-posta</a>
-</p>
+- 🎓 Bilecik Şeyh Edebali Üniversitesi — Bilgisayar Mühendisliği (Bölüm 3.'sü)
+- 🔭 İlgi alanlarım: bilgisayarlı görü, derin öğrenme, gerçek zamanlı sistemler, otonom platformlar
+- 🛠️ YOLO mimarileri ile modeller geliştirip gömülü platformlar (NVIDIA Jetson) üzerinde çalıştırma konusunda uygulamalı deneyim
+- 🎯 Savunma sanayii ve yapay zekâ odaklı projelere ilgi duyuyorum
 
-<br>
+## 🧰 Teknolojiler
 
-<table>
-  <tr>
-    <td width="120"><sub><b>Alan</b></sub></td>
-    <td><sub>Gerçek zamanlı nesne tespiti, görüntü işleme, gömülü yapay zekâ</sub></td>
-  </tr>
-  <tr>
-    <td><sub><b>Eğitim</b></sub></td>
-    <td><sub>Bilecik Şeyh Edebali Üniversitesi — Bilgisayar Mühendisliği</sub></td>
-  </tr>
-  <tr>
-    <td><sub><b>Odak</b></sub></td>
-    <td><sub>YOLO mimarileri, NVIDIA Jetson üzerinde gerçek zamanlı çıkarım</sub></td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-<br>
+**Bilgisayarlı Görü:** OpenCV, MediaPipe, YOLOv4/v7, NumPy
+**Derin Öğrenme:** TensorFlow, Keras
+**Gömülü YZ:** NVIDIA Jetson, gerçek zamanlı çıkarım, model optimizasyonu
+**Diğer:** Flask, Flutter, SQL, Git
 
-<sub><b>TEKNOLOJİLER</b></sub>
+## 📌 Öne Çıkan Projeler
 
-<table>
-  <tr>
-    <td width="150"><sub>Bilgisayarlı Görü</sub></td>
-    <td><sub>OpenCV · MediaPipe · YOLOv4/v7 · NumPy</sub></td>
-  </tr>
-  <tr>
-    <td><sub>Derin Öğrenme</sub></td>
-    <td><sub>TensorFlow · Keras</sub></td>
-  </tr>
-  <tr>
-    <td><sub>Gömülü YZ</sub></td>
-    <td><sub>NVIDIA Jetson · gerçek zamanlı çıkarım · model optimizasyonu</sub></td>
-  </tr>
-  <tr>
-    <td><sub>Diğer</sub></td>
-    <td><sub>Python · C · Flask · Flutter · SQL · Git</sub></td>
-  </tr>
-</table>
+- **[Park Yeri Doluluk Tespiti](https://github.com/utk0z/parking-space-detection)** — OpenCV ile otopark doluluk analizi (bitirme projesi)
+- **[Yüz Kayıt Sistemi](https://github.com/utk0z/face-enrollment-mediapipe)** — MediaPipe ile yönlendirmeli yüz kaydı
 
-<br>
+## 📫 İletişim
 
-<sub><b>PROJELER</b></sub>
-
-<table>
-  <tr>
-    <td width="220"><sub><a href="https://github.com/utk0z/parking-space-detection"><b>parking-space-detection</b></a></sub></td>
-    <td><sub>OpenCV ile otopark doluluk tespiti — bitirme projesi</sub></td>
-  </tr>
-  <tr>
-    <td><sub><a href="https://github.com/utk0z/face-enrollment-mediapipe"><b>face-enrollment-mediapipe</b></a></sub></td>
-    <td><sub>MediaPipe ile yönlendirmeli yüz kayıt sistemi</sub></td>
-  </tr>
-</table>
-
-<br>
-
-<!--
-NOT: Bu dosyanın profil sayfanızda görünmesi için, kullanıcı adınızla
-AYNI isimde (utk0z) bir repo açıp bu içeriği oradaki README.md'ye koymanız gerekir.
-Repo: utk0z/utk0z
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semih-utku-ozgan)
